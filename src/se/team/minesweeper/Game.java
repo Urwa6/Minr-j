@@ -1,3 +1,5 @@
+package se.team.minesweeper;
+
 //Game is responsible for the game's logic and order(game-loop)
 public class Game {
     //The game board

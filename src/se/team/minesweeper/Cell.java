@@ -1,3 +1,5 @@
+package se.team.minesweeper;
+
 //Cell represents a single square on the board
 //It knows if it is a mine, if it is revealed and how many mines are adjacent to it
 public class Cell {

@@ -1,3 +1,5 @@
+package se.team.minesweeper;
+
 import java.util.Scanner;
 //Player handles player input(which cell to reveal)
 public class Player {
